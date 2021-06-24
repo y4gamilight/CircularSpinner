@@ -16,5 +16,5 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/y4gamilight/CircularSpinner.git", :tag => "#{s.version}" }
   s.social_media_url = 'https://twitter.com/taglia3'
   s.frameworks        = 'UIKit'
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '11.0'
 end
